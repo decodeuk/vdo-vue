@@ -1,4 +1,5 @@
 ---
+layout: simple
 title: Vdox Documentation
 permalink: /vdox/
 ---
