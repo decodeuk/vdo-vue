@@ -11,7 +11,7 @@ The guide assumes that you already have your base Vue app structure in place and
 
     At the command line run:
 
-    ```js
+    ```shell
     npm install @decodeuk/vdo-vue;
     ```
 
