@@ -33,7 +33,7 @@ The guide assumes that you already have your base Vue app structure in place and
 
 ## Next Steps
 
-1. Setting up Vdox (Vuex Plugin)
+1. [Setting up Vdox (Vuex Plugin)](./vdox/)
 1. Initialising $vdo
 1. Session Ids
 1. User Tokens
