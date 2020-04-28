@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/decodeuk/vdo-vue/issues"
   },
-  "homepage": "https://github.com/decodeuk/vdo-vue#readme",
+  "homepage": "https://decodeuk.github.io/vdo-vue/",
   "devDependencies": {
     "@decodeuk/vdo-client": "^0.1.0"
   }
