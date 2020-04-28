@@ -1,0 +1,26 @@
+{
+  "name": "@decodeuk/vdo-vue",
+  "version": "0.1.0",
+  "description": "Vue Plugin for VDO",
+  "main": "src/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decodeuk/vdo-vue.git"
+  },
+  "keywords": [
+    "vdo",
+    "vdo-vue"
+  ],
+  "author": "danmillar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decodeuk/vdo-vue/issues"
+  },
+  "homepage": "https://github.com/decodeuk/vdo-vue#readme",
+  "devDependencies": {
+    "@decodeuk/vdo-client": "^0.1.0"
+  }
+}
