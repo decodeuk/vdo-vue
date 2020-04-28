@@ -15,7 +15,9 @@ The guide assumes that you already have your base Vue app structure in place and
 
     At the command line run:
 
-    `npm install @decodeuk/vdo-vue`
+    ```js
+    npm install @decodeuk/vdo-vue
+    ```
 
     **Note:** You can use the appropriate save flags as required (_--save_ or _--save-dev_). If using a build tool such as Parcel then use _--save-dev_.
 
@@ -23,13 +25,17 @@ The guide assumes that you already have your base Vue app structure in place and
 
     Add the following line towards the top of your Vue file:
 
-    `import Vdo from '@decodeuk/vdo-vue';`
+    ```js
+    import Vdo from '@decodeuk/vdo-vue';
+    ```
 
 3. Set Vue to use the Vdo plugin
 
     Underneath, set Vue to use Vdo passing your _apiKey_ as a value of the options object:
 
-    `Vue.use(Vdo, {"apiKey": "<your-api-key>"});`
+    ```js
+    Vue.use(Vdo, {"apiKey": "<your-api-key>"});
+    ```
 
 ## Next Steps
 
