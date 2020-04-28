@@ -1,6 +1,6 @@
 ---
 title: Vdox Documentation
-permalink: /vdox
+permalink: /vdox/
 ---
 
 # Vdox Documentation
