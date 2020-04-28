@@ -3,10 +3,6 @@ title: VDO Vue Documentation
 permalink: /
 ---
 
-# VDO Vue Documentation
-
-The following documentation is provided as a guide to getting started with the VDO Vue Plugin.
-
 ## Getting started
 
 The guide assumes that you already have your base Vue app structure in place and are using NPM as your package manager.
