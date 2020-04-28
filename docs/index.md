@@ -12,7 +12,7 @@ The guide assumes that you already have your base Vue app structure in place and
     At the command line run:
 
     ```js
-    npm install @decodeuk/vdo-vue
+    npm install @decodeuk/vdo-vue;
     ```
 
     **Note:** You can use the appropriate save flags as required (_--save_ or _--save-dev_). If using a build tool such as Parcel then use _--save-dev_.
