@@ -21,6 +21,6 @@
   },
   "homepage": "https://decodeuk.github.io/vdo-vue/",
   "devDependencies": {
-    "@decodeuk/vdo-client": "^0.1.0"
+    "@decodeuk/vdo-client": "^0.2.0"
   }
 }

@@ -105,7 +105,7 @@ let Vdo = {
     },
 
     isVdoConnection(connection) {
-        return (connection !== null && typeof connection == 'object' && typeof connection.constructor !== 'undefined' && connection.constructor.name == 'vdoConnection');
+        return (connection !== null && typeof connection == 'object' && typeof connection._name !== 'undefined' && connection._name == 'vdoConnection');
     },
 
     _listen() {
