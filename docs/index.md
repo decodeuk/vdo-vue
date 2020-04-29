@@ -17,7 +17,7 @@ The guide assumes that you already have your base Vue app structure in place and
 
     **Note:** You can use the appropriate save flags as required (_--save_ or _--save-dev_). If using a build tool such as Parcel then use _--save-dev_.
 
-2. Import into your main Vue application file
+1. Import into your main Vue application file
 
     Add the following line towards the top of your Vue file:
 
@@ -25,7 +25,7 @@ The guide assumes that you already have your base Vue app structure in place and
     import Vdo from '@decodeuk/vdo-vue';
     ```
 
-3. Set Vue to use the Vdo plugin
+1. Set Vue to use the Vdo plugin
 
     Underneath, set Vue to use Vdo passing your _apiKey_ as a value of the options object:
 
