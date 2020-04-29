@@ -1,6 +1,6 @@
 {
   "name": "@decodeuk/vdo-vue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vue Plugin for VDO",
   "main": "src/plugin.js",
   "scripts": {
