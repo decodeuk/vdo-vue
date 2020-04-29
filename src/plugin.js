@@ -18,6 +18,10 @@ let Vdo = {
         this.options = options || {};
         this.token = this.options.token || null;
 
+        if(typeof this.options.sessionId !== 'undefined') {
+            this.setSessionId(this.options.sessionId);
+        }
+
         this._listen();
 
         // Setup the Session handler (which auto creates instance if sessionId passed in options)
